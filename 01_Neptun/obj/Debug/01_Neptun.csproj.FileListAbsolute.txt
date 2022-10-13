@@ -1,0 +1,13 @@
+D:\Troll\MagProg2_2018_19_C\01_Neptun\bin\Debug\01_Neptun.exe.config
+D:\Troll\MagProg2_2018_19_C\01_Neptun\bin\Debug\01_Neptun.exe
+D:\Troll\MagProg2_2018_19_C\01_Neptun\bin\Debug\01_Neptun.pdb
+D:\Troll\MagProg2_2018_19_C\01_Neptun\obj\Debug\01_Neptun.csprojResolveAssemblyReference.cache
+D:\Troll\MagProg2_2018_19_C\01_Neptun\obj\Debug\01_Neptun.exe
+D:\Troll\MagProg2_2018_19_C\01_Neptun\obj\Debug\01_Neptun.pdb
+D:\C#\Elkuld\MagProg2\MagProg2\01_Neptun\bin\Debug\01_Neptun.exe.config
+D:\C#\Elkuld\MagProg2\MagProg2\01_Neptun\bin\Debug\01_Neptun.exe
+D:\C#\Elkuld\MagProg2\MagProg2\01_Neptun\bin\Debug\01_Neptun.pdb
+D:\C#\Elkuld\MagProg2\MagProg2\01_Neptun\obj\Debug\01_Neptun.csprojAssemblyReference.cache
+D:\C#\Elkuld\MagProg2\MagProg2\01_Neptun\obj\Debug\01_Neptun.csproj.CoreCompileInputs.cache
+D:\C#\Elkuld\MagProg2\MagProg2\01_Neptun\obj\Debug\01_Neptun.exe
+D:\C#\Elkuld\MagProg2\MagProg2\01_Neptun\obj\Debug\01_Neptun.pdb
