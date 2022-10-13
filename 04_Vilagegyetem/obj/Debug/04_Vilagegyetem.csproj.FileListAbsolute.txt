@@ -1,0 +1,15 @@
+D:\Troll\MagProg2_2018_19_C\04_Vilagegyetem\bin\Debug\04_Vilagegyetem.exe.config
+D:\Troll\MagProg2_2018_19_C\04_Vilagegyetem\bin\Debug\04_Vilagegyetem.exe
+D:\Troll\MagProg2_2018_19_C\04_Vilagegyetem\bin\Debug\04_Vilagegyetem.pdb
+D:\Troll\MagProg2_2018_19_C\04_Vilagegyetem\obj\Debug\04_Vilagegyetem.exe
+D:\Troll\MagProg2_2018_19_C\04_Vilagegyetem\obj\Debug\04_Vilagegyetem.pdb
+d:\Troll\MagProg2_2018_19_C\04_Vilagegyetem\obj\Debug\04_Vilagegyetem.csprojResolveAssemblyReference.cache
+d:\Troll\MagProg2_2018_19_C\04_Vilagegyetem\bin\Debug\Egitestek.csv
+D:\C#\Elkuld\MagProg2\MagProg2\04_Vilagegyetem\bin\Debug\Egitestek.csv
+D:\C#\Elkuld\MagProg2\MagProg2\04_Vilagegyetem\bin\Debug\04_Vilagegyetem.exe.config
+D:\C#\Elkuld\MagProg2\MagProg2\04_Vilagegyetem\bin\Debug\04_Vilagegyetem.exe
+D:\C#\Elkuld\MagProg2\MagProg2\04_Vilagegyetem\bin\Debug\04_Vilagegyetem.pdb
+D:\C#\Elkuld\MagProg2\MagProg2\04_Vilagegyetem\obj\Debug\04_Vilagegyetem.csprojAssemblyReference.cache
+D:\C#\Elkuld\MagProg2\MagProg2\04_Vilagegyetem\obj\Debug\04_Vilagegyetem.csproj.CoreCompileInputs.cache
+D:\C#\Elkuld\MagProg2\MagProg2\04_Vilagegyetem\obj\Debug\04_Vilagegyetem.exe
+D:\C#\Elkuld\MagProg2\MagProg2\04_Vilagegyetem\obj\Debug\04_Vilagegyetem.pdb
