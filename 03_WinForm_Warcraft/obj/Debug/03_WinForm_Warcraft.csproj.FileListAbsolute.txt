@@ -1,0 +1,29 @@
+D:\Troll\MagProg2_2018_19_C\03_WinForm_Warcraft\bin\Debug\03_WinForm_Warcraft.exe.config
+D:\Troll\MagProg2_2018_19_C\03_WinForm_Warcraft\bin\Debug\03_WinForm_Warcraft.exe
+D:\Troll\MagProg2_2018_19_C\03_WinForm_Warcraft\bin\Debug\03_WinForm_Warcraft.pdb
+D:\Troll\MagProg2_2018_19_C\03_WinForm_Warcraft\obj\Debug\03_WinForm_Warcraft.csprojResolveAssemblyReference.cache
+D:\Troll\MagProg2_2018_19_C\03_WinForm_Warcraft\obj\Debug\_03_WinForm_Warcraft.Properties.Resources.resources
+D:\Troll\MagProg2_2018_19_C\03_WinForm_Warcraft\obj\Debug\03_WinForm_Warcraft.csproj.GenerateResource.Cache
+D:\Troll\MagProg2_2018_19_C\03_WinForm_Warcraft\obj\Debug\03_WinForm_Warcraft.exe
+D:\Troll\MagProg2_2018_19_C\03_WinForm_Warcraft\obj\Debug\03_WinForm_Warcraft.pdb
+D:\Troll\MagProg2_2018_19_C\03_WinForm_Warcraft\obj\Debug\_03_WinForm_Warcraft.MainWindow.resources
+D:\C#\Magasszintű Programozási Nyelvek II gy\Troll\MagProg2_2018_19_C\MagProg2_2018_19_C\03_WinForm_Warcraft\bin\Debug\03_WinForm_Warcraft.exe.config
+D:\C#\Magasszintű Programozási Nyelvek II gy\Troll\MagProg2_2018_19_C\MagProg2_2018_19_C\03_WinForm_Warcraft\bin\Debug\03_WinForm_Warcraft.exe
+D:\C#\Magasszintű Programozási Nyelvek II gy\Troll\MagProg2_2018_19_C\MagProg2_2018_19_C\03_WinForm_Warcraft\bin\Debug\03_WinForm_Warcraft.pdb
+D:\C#\Magasszintű Programozási Nyelvek II gy\Troll\MagProg2_2018_19_C\MagProg2_2018_19_C\03_WinForm_Warcraft\obj\Debug\03_WinForm_Warcraft.csprojAssemblyReference.cache
+D:\C#\Magasszintű Programozási Nyelvek II gy\Troll\MagProg2_2018_19_C\MagProg2_2018_19_C\03_WinForm_Warcraft\obj\Debug\_03_WinForm_Warcraft.MainWindow.resources
+D:\C#\Magasszintű Programozási Nyelvek II gy\Troll\MagProg2_2018_19_C\MagProg2_2018_19_C\03_WinForm_Warcraft\obj\Debug\_03_WinForm_Warcraft.Properties.Resources.resources
+D:\C#\Magasszintű Programozási Nyelvek II gy\Troll\MagProg2_2018_19_C\MagProg2_2018_19_C\03_WinForm_Warcraft\obj\Debug\03_WinForm_Warcraft.csproj.GenerateResource.cache
+D:\C#\Magasszintű Programozási Nyelvek II gy\Troll\MagProg2_2018_19_C\MagProg2_2018_19_C\03_WinForm_Warcraft\obj\Debug\03_WinForm_Warcraft.csproj.CoreCompileInputs.cache
+D:\C#\Magasszintű Programozási Nyelvek II gy\Troll\MagProg2_2018_19_C\MagProg2_2018_19_C\03_WinForm_Warcraft\obj\Debug\03_WinForm_Warcraft.exe
+D:\C#\Magasszintű Programozási Nyelvek II gy\Troll\MagProg2_2018_19_C\MagProg2_2018_19_C\03_WinForm_Warcraft\obj\Debug\03_WinForm_Warcraft.pdb
+D:\C#\Elkuld\MagProg2\MagProg2\03_WinForm_Warcraft\bin\Debug\03_WinForm_Warcraft.exe.config
+D:\C#\Elkuld\MagProg2\MagProg2\03_WinForm_Warcraft\bin\Debug\03_WinForm_Warcraft.exe
+D:\C#\Elkuld\MagProg2\MagProg2\03_WinForm_Warcraft\bin\Debug\03_WinForm_Warcraft.pdb
+D:\C#\Elkuld\MagProg2\MagProg2\03_WinForm_Warcraft\obj\Debug\03_WinForm_Warcraft.csprojAssemblyReference.cache
+D:\C#\Elkuld\MagProg2\MagProg2\03_WinForm_Warcraft\obj\Debug\_03_WinForm_Warcraft.MainWindow.resources
+D:\C#\Elkuld\MagProg2\MagProg2\03_WinForm_Warcraft\obj\Debug\_03_WinForm_Warcraft.Properties.Resources.resources
+D:\C#\Elkuld\MagProg2\MagProg2\03_WinForm_Warcraft\obj\Debug\03_WinForm_Warcraft.csproj.GenerateResource.cache
+D:\C#\Elkuld\MagProg2\MagProg2\03_WinForm_Warcraft\obj\Debug\03_WinForm_Warcraft.csproj.CoreCompileInputs.cache
+D:\C#\Elkuld\MagProg2\MagProg2\03_WinForm_Warcraft\obj\Debug\03_WinForm_Warcraft.exe
+D:\C#\Elkuld\MagProg2\MagProg2\03_WinForm_Warcraft\obj\Debug\03_WinForm_Warcraft.pdb
