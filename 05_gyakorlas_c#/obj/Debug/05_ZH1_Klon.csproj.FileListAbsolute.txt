@@ -1,0 +1,13 @@
+D:\Troll\MagProg2_2018_19_C\05_ZH1_Klon\bin\Debug\05_ZH1_Klon.exe.config
+d:\Troll\MagProg2_2018_19_C\05_ZH1_Klon\bin\Debug\05_ZH1_Klon.exe
+d:\Troll\MagProg2_2018_19_C\05_ZH1_Klon\bin\Debug\05_ZH1_Klon.pdb
+d:\Troll\MagProg2_2018_19_C\05_ZH1_Klon\obj\Debug\05_ZH1_Klon.csprojResolveAssemblyReference.cache
+d:\Troll\MagProg2_2018_19_C\05_ZH1_Klon\obj\Debug\05_ZH1_Klon.exe
+d:\Troll\MagProg2_2018_19_C\05_ZH1_Klon\obj\Debug\05_ZH1_Klon.pdb
+D:\C#\Elkuld\MagProg2\MagProg2\05_ZH_gyakorlas\bin\Debug\05_ZH1_Klon.exe.config
+D:\C#\Elkuld\MagProg2\MagProg2\05_ZH_gyakorlas\bin\Debug\05_ZH1_Klon.exe
+D:\C#\Elkuld\MagProg2\MagProg2\05_ZH_gyakorlas\bin\Debug\05_ZH1_Klon.pdb
+D:\C#\Elkuld\MagProg2\MagProg2\05_ZH_gyakorlas\obj\Debug\05_ZH1_Klon.csprojAssemblyReference.cache
+D:\C#\Elkuld\MagProg2\MagProg2\05_ZH_gyakorlas\obj\Debug\05_ZH1_Klon.csproj.CoreCompileInputs.cache
+D:\C#\Elkuld\MagProg2\MagProg2\05_ZH_gyakorlas\obj\Debug\05_ZH1_Klon.exe
+D:\C#\Elkuld\MagProg2\MagProg2\05_ZH_gyakorlas\obj\Debug\05_ZH1_Klon.pdb
